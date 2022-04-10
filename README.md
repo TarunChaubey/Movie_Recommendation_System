@@ -20,3 +20,5 @@ Click on Show Recommendation
 
 
 Project Live Link - https://movierecobytarun.herokuapp.com/
+
+Connect on Linkedin - https://www.linkedin.com/in/tarunchaubey/
